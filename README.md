@@ -49,7 +49,7 @@ Crie um arquivo chamado `participantes.csv` na raiz do projeto. O arquivo deve c
 
 ```bash
 # Clone este repositório
-$ git clone https://[SEU-USUARIO-GIT]/projetoSorteio.git
+$ git clone https://github.com/FelipeLeopoldino/projetoSorteio
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd projetoSorteio
